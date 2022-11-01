@@ -50,7 +50,7 @@ M.day = M.night
 
 M.midnight = {
   bg = "#000000",
-  bg_dark = "#12121a"
+  bg_dark = "#111111"
 }
 
 M.moon = function()
