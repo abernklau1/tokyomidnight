@@ -49,7 +49,7 @@ M.night = {
 M.day = M.night
 
 M.midnight = {
-  bg = "#000000"
+  bg = "#000000",
   fg = "111111"
 }
 
