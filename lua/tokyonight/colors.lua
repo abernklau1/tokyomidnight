@@ -48,6 +48,10 @@ M.night = {
 }
 M.day = M.night
 
+M.midnight = {
+  bg = "#000000"
+}
+
 M.moon = function()
   local ret = {
     none = "NONE",
